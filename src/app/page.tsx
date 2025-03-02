@@ -48,8 +48,8 @@ type CalendarProps = {
 const authors = [
   {'name': 'Hoon Jo', url: 'https://www.linkedin.com/in/hoonjo/'},
   {'name': 'Gnu Shim', url: 'https://www.linkedin.com/in/gnu-shim/'},
-  {'name': 'Sungmin Lee', url: 'https://www.linkedin.com/in/sungmincs/'},
   {'name': 'Seongju Mun', url: 'https://www.linkedin.com/in/seongjuishere/'},
+  {'name': 'Sungmin Lee', url: 'https://www.linkedin.com/in/sungmincs/'},
 ]
 
 const Calendar = ({ data, startDate, endDate, width, height }: CalendarProps) => (
